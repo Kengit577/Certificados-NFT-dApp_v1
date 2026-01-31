@@ -30,25 +30,25 @@ Esto se hace mediante el evento EstudianteRegistrado.
 
 **Para Estudiantes:**
 
-✅ **Registro de Estudiantes:** Un formulario para que los Participantes/Estudiantes se registren en el Instituto (Contrato), sólo una vez.
+- ✅ **Registro de Estudiantes:** Un formulario para que los Participantes/Estudiantes se registren en el Instituto (Contrato), sólo una vez.
 
-✅ **Galería de Certificados:** Galería con los Certificados NFT que ha obtenido, en caso de haber obtenido alguno.
+- ✅ **Galería de Certificados:** Galería con los Certificados NFT que ha obtenido, en caso de haber obtenido alguno.
 
 **Administrador:**
 
-✅ **Autologin:** Muestra el área de Administrador automáticamente si detecta que es el Deployer.
+- ✅ **Autologin:** Muestra el área de Administrador automáticamente si detecta que es el Deployer.
 
-✅ **Registro de Nuevo Certificado:** Un formulario para agregar un nuevo Certificado NFT en la galería: nombre, URI, precio referencial/simbólico.
+- ✅ **Registro de Nuevo Certificado:** Un formulario para agregar un nuevo Certificado NFT en la galería: nombre, URI, precio referencial/simbólico.
 
-✅ **Galería de Certificados:** Asignación de Certificados a estudiantes según su address.
+- ✅ **Galería de Certificados:** Asignación de Certificados a estudiantes según su address.
 
 **Generales:**
 
-✅ Detección automática de cambios de cuenta en MetaMask
-✅ Conversión correcta de Wei a Ether con `ethers.formatEther`
-✅ Espera a confirmación de bloques antes de actualizar UI
-✅ Sistema de roles automático (Admin/Estudiante)
-✅ Interfaz responsiva y moderna
+- ✅ Detección automática de cambios de cuenta en MetaMask
+- ✅ Conversión correcta de Wei a Ether con `ethers.formatEther`
+- ✅ Espera a confirmación de bloques antes de actualizar UI
+- ✅ Sistema de roles automático (Admin/Estudiante)
+- ✅ Interfaz responsiva y moderna
 
 ## Estructura de Roles
 
