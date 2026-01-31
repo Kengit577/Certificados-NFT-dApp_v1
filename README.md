@@ -142,7 +142,7 @@ Esto se hace mediante el evento EstudianteRegistrado.
 ├── public/                           # Archivos públicos
 ├── SETUP.md                          # Guía de instalación
 ├── DEPLOY.md                         # Guía de despliegue
-├── .env.example                      # Ejemplo de variables de entorno
+├── .example.env.local                # Ejemplo de variables de entorno
 └── package.json                      # Dependencias del proyecto
 
 ```
