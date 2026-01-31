@@ -195,7 +195,7 @@ Esto se hace mediante el evento EstudianteRegistrado.
 
 ```shellscript
 npm install
-nano .env.local
+cp .example.env.local .env.local
 # Edita .env.local con tu dirección de contrato
 npm run dev
 ```
